@@ -1,6 +1,6 @@
 # function - reusable block of code
 
-def add_two(a, b):
+def add_two(a: int, b: int):
     return a + b
 
 
