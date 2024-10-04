@@ -21,3 +21,7 @@ print(student1[1])
 # tuple methods (functions)
 print(student1.index("Canada"))
 print(student1.count("Canada"))
+
+# for single element tuple (add a comma at the end)
+a = ("hello",)  # or "hello",
+print(type(a))
