@@ -1,0 +1,15 @@
+Date,Category,Description,Amount,Type
+2024-10-01,Food,Grocery,50.75,Expense
+2024-10-02,Rent,Monthly Rent,1200.0,Expense
+2024-10-02,Utilities,Electricity Bill,60.0,Expense
+2024-10-03,Food,Dinner,30.0,Expense
+2024-10-04,Transport,Bus Ticket,2.75,Expense
+2024-10-05,Food,Breakfast,15.0,Expense
+2024-10-06,Income,Salary,2000.0,Income
+2024-10-10,Income,Freelance Work,500.0,Income
+2024-10-12,Utilities,Water Bill,40.0,Expense
+2024-10-15,Food,Lunch,25.0,Expense
+2024-10-18,Transport,Taxi,25.0,Expense
+2024-10-20,Income,Investment Return,200.0,Income
+2024-10-25,Food,Groceries,80.0,Expense
+2024-10-28,Rent,Monthly Rent,1200.0,Expense
